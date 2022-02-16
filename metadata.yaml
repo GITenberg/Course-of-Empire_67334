@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Richard_Stallman
     - https://en.wikipedia.org/wiki/Richard_Stallman
+covers:
+- cover_type: archival
+  image_path: 67334-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Richard
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34343
     wikipedia: https://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67334#Course-of-Empire
 gutenberg_issued: '2022-02-06'
 identifiers:
   gutenberg: '67334'
